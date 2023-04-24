@@ -1,0 +1,225 @@
+ body{
+          
+    background-image:url(/img/library\ cup\ 3.jpg);
+    background-size:cover ;
+    margin:0px;
+   
+    
+    /* border-image-repeat:no repeat;
+flex-direction: column;
+display:flex;
+justify-content: center;
+margin-top:0px; */
+}
+
+.headd-box{ display:flex;
+  flex-direction: row;
+   /* background-color: aqua; */
+}
+.first{width:110px;
+/* background-color: brown;} */
+}
+
+.img-fit{
+  
+    width:103px;
+    height:107px;
+    object-fit: cover;
+  
+    
+ 
+    border-radius:59px;
+    /* display:inline-block; */
+  }
+  .clg-name-heading{background-color:rgb(46, 71, 122);flex:1;
+   
+    }
+    .clg-name-heading h2{margin: 0;
+      margin:30px 0px 0px 100px;
+    font-size: 45px;color:white;}
+  
+/*   
+
+
+  #name-clg{display:inline-block;
+  vertical-align:top;
+  font-family: Arial;
+  font-weight:bold;
+  font-size: 35px;
+  background-color:rgb(52, 71, 104);
+  color:white;
+  margin:0px;
+  padding:0px 363px 0px 75px;
+  
+  margin-left:1px;
+  text-align: center;
+  border:3px dashed red;
+  
+  width:900px;} */
+
+
+
+#form1{
+  text-align:left;
+  font-size: larger;
+  border: 4px solid rgb(116, 73, 126);}
+  
+.register{
+    background-color: rgb(43, 75, 79);
+    display:block;
+    color:rgba(255, 255, 255, 0.86);
+    margin-top:auto ;
+    padding-top:0px;
+    border-radius: 3px;
+    margin-bottom:0px;
+           }
+           .register:hover{
+             background-color: rgb(43, 95, 107);
+             color:rgb(7, 5, 5);
+                          }
+
+
+.login-page{
+  /* background-size:cover; */
+
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height:460px;
+  width:560px;
+  background-image:url(../img/bg2.jpg);
+  /* background-size: contain; */
+  background-color: rgb(72, 62, 72);
+  border:3px solid rgb(255, 0, 208);
+  
+  
+  margin-left: 38px;
+  padding-left: 30px;
+  text-align: left;
+  border:none;
+  border-radius:34px;
+
+}
+.login-page{
+  opacity:0.82;
+}
+.login-page .create-page{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 600;
+font-size:26px;
+margin:0px;
+margin-bottom:20px;
+display: inline-block;
+margin-left: 102px;
+background-color:rgba(90, 74, 138, 0.568);
+border-radius: 5px;
+width:auto;
+padding:5px 5px 5px 5px;
+
+} 
+
+
+
+/* 
+.bodyoo{
+background-image:url(images/library5.jpg);
+border-image-repeat:no repeat;
+flex-direction: column;
+display:flex;
+justify-content: center;
+
+} */
+
+
+
+
+.mini-box{
+font-weight:bold;
+/*         
+background-color: rgb(45, 187, 45); */
+  width:200px;
+  display:inline-block;
+  border-radius:3px;
+}
+.details{
+
+
+margin-left: 0px;
+/* background-color:rgb(0, 81, 255); */
+padding-right: 24px;
+color:rgb(12, 5, 5);
+border-radius: 4px;
+/* transition: opacity 0.56s; */
+}
+.details:hover{
+
+opacity:0.56;
+}
+
+/* last input is for the taking data ex rajjupeta laxman*/
+
+
+
+
+/* it shows the su */
+
+input{  border-radius:1rem;
+    margin-left:0px;
+    padding: 7px;
+
+    /* input means bollam praveen */
+           }
+
+
+
+           .divi {
+            display:inline-block;
+            /* background-color: goldenrod; */
+            margin:20px;
+            margin-left: 173px;
+            padding:4px 10px 4px 10px ;
+            margin-bottom:180px;
+            
+            
+          
+          
+      
+          }
+          .divi input{
+            margin-right:14px;
+            font-weight: bold;
+            border:none;
+            border:1px solid white;
+            font-size: 20px;
+            transition:background-color 0.50s,color 0.30s;
+                    }
+                    .divi input:hover{
+                         background-color: rgb(174, 105, 53);
+                         color:black;
+                         opacity: 0.9;
+                                     }
+           /* anchor link to back to login */
+          .divi a{background-color:white;
+            text-decoration-line: none;
+            background-color: rgb(0, 0, 0);
+            border:1px solid white;
+            color:white;
+            padding:5px 5px 5px 5px ;
+            margin-left: 5px;
+            font-size:21px;
+            border-radius: 3px;
+            transition:background-color 0.60s,color 0.60s;
+          
+                               }
+                               .divi a:hover{
+                                         background-color: rgba(221, 47, 204, 0.988);
+                                         color:rgb(255, 255, 255);
+                                         opacity: 0.9;
+                                            }
+    
+
+
+
+          
+
+
+
